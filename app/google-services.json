@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599470272607",
+    "firebase_url": "https://ranoappcover.firebaseio.com",
+    "project_id": "ranoappcover",
+    "storage_bucket": "ranoappcover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599470272607:android:b4f4930d62ea315fd32bea",
+        "android_client_info": {
+          "package_name": "by.viktor.ranoappcover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599470272607-1qmnk9g5d82i54tm6gsjc69jbns22bdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.viktor.ranoappcover",
+            "certificate_hash": "184aabbb7ce46d6de6f0d12f2d48f367eaa8bc9d"
+          }
+        },
+        {
+          "client_id": "599470272607-d4gteb2k665r6mgl6m64f0vh3gv3vt67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_xnlXAEhvc7Q8FIDvCyUGYc_GWbGYS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599470272607-d4gteb2k665r6mgl6m64f0vh3gv3vt67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
